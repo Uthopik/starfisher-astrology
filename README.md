@@ -6,7 +6,7 @@
 [Home page of StarFisher proyect](http://www.starfisher.cz/)
 
 # AppImage version of StarFisher v0.8.5.4 with wine
-- **Starfisher-v0.8.5.4-i686.AppImage** **[Download](https://github.com/Uthopik/astrolog32-astrology/releases/download/v3.70/Astrolog32-v3.70-i686.AppImage)**
+- **Starfisher-v0.8.5.4-i686.AppImage** **[Download](https://github.com/Uthopik/starfisher-astrology/releases/download/v0.8.5.4/Starfisher-v0.8.5.4-i686.AppImage)**
 - Right-click the **AppImage** file and grant permission via the **‘Permissions’** menu. Alternatively, in the terminal, grant permission using:
 
 ```bash
